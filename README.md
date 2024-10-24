@@ -35,4 +35,4 @@ Bu projede, balık türlerinin görüntülerden otomatik olarak tanımlanması i
 - **Sınıflandırma Raporu:** Modelin sınıflandırma başarısını detaylandıran bir rapor üretilmiştir. Bu rapor, her bir sınıf için doğruluk, hatalar ve diğer metrikleri içerir.
 
 
-[Kaggle Linki](https://www.kaggle.com/code/baharsevinti/akbank-dl-project)
+[Kaggle Linki](https://www.kaggle.com/code/baharsevinti/project-dl-akbank)
